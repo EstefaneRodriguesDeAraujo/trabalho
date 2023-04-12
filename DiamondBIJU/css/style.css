@@ -1,0 +1,46 @@
+nav{
+    background-color: rgb(212, 165, 214);
+}
+.externo{
+    background-color: rgb(242, 225, 242);
+    min-height: 800px;
+}
+
+.interno{
+    margin: 5px 0px 0px 0px;
+}
+footer{
+    background-color: rgb(212, 165, 214);
+    min-height: 20vh;
+}
+h2{
+    font-size: 16px;
+    margin: 0px;
+
+}
+main{
+    min-height: 100vh;
+}
+.borda{
+    border: 1px solid rgb(170,170,170);
+    border-radius: 5px;
+    margin: 00px ;
+    min-height: 500px;
+}
+.formu{
+    padding: 10px 10px  0px 10px;
+}
+.flexinput{
+    display: flex;
+    flex-direction: row;
+}
+ .item span{
+    font-size: 12px;
+ }
+.item h3{
+    font-size: 15px;
+    font-weight: 600;
+}
+.item img{
+    margin-bottom: 5px;
+}
