@@ -8,16 +8,16 @@ nav {
 }
 
 .interno {
-    margin: 5px 0px 0px 0px;
+    margin: 3px 0px 0px 0px;
 }
 
 footer {
-    background-color: rgb(255, 255, 255);
-    min-height: 15vh;
+    background-color: rgba(255, 255, 255, 0.868);
+    min-height: 13vh;
 }
 
 h2 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     margin: 0px;
     font-weight:400;
 
@@ -91,7 +91,34 @@ h5{
 }
 
 h6 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     margin: 0px;
     color: white;
+}
+
+.h7{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0px;
+    color: rgb(14, 13, 13);
+}
+
+.carousel{  
+     opacity: .5s;
+    transition-duration: .6s;
+    
+}
+
+.Busca-box{
+    padding-left: 15%;
+    
+}
+
+.btn-outline-success{
+border-color: gray;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
+
+.d-flex{
+    color: darkgray;
 }
